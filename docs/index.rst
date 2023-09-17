@@ -47,15 +47,18 @@ Modern TTS tools allow for the conversion of text into MP3 files, facilitating e
 
 Free Text-to-Speech Websites and Tools
 --------------------------------------
-1. Google Text-to-Speech
+1. `Google Text-to-Speech <https://www.voiceoftext.com/p/sound-of-text-wa.html>`_
 2. Natural Reader Online
 3. TTSReader
+4. Sound of text
+5. Botika text to speech
 
 Best Text-to-Speech Software
 ----------------------------
 1. **Ivona:** Known for high-quality voices.
 2. **CereProc:** Offers personalized TTS voices.
 3. **Neospeech:** Uses VoiceText to turn text into lifelike speech.
+4. **Balabolka**
 
 Text-to-Speech for Videos and Podcasts
 --------------------------------------
