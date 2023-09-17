@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: # Allow everything modified
+
+Sitemap: https://rubocop.readthedocs.io/sitemap.xml
